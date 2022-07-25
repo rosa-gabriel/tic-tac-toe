@@ -13,4 +13,11 @@ This is my first GitHub repository post so I don't know how everything works.
 
 Once you run the program the console will open showing a 3x3 grid:
 
-![IMAGE](https://imgur.com/4OwzfSy)
+![IMAGE](https://imgur.com/4OwzfSy.png)
+
+The console will ask you for a input of Type int that will represent the block of the grid. Counting from left -> right / Up -> Down. 
+
+The game is divided in "Jogador O" and "Jogador X" the simbol after player represents the player simbol that will be added to the grid.
+
+If you enter a number of a non-valid block or already used block the console will ask you to enter a new number wille still on the same Player.
+
