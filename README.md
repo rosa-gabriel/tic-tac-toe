@@ -11,4 +11,6 @@ This is my first GitHub repository post so I don't know how everything works.
 
 ## Usage
 
-Once you run the program a console image will 
+Once you run the program the console will open showing a 3x3 grid:
+
+![IMAGE](https://imgur.com/4OwzfSy)
