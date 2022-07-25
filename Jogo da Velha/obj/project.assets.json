@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projetos\\Treino\\Jogo da Velha\\Jogo da Velha.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Downloads\\Jogo da Velha\\Jogo da Velha.csproj",
       "projectName": "Jogo da Velha",
-      "projectPath": "G:\\Projetos\\Treino\\Jogo da Velha\\Jogo da Velha.csproj",
+      "projectPath": "C:\\Users\\gabri\\Downloads\\Jogo da Velha\\Jogo da Velha.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "G:\\Projetos\\Treino\\Jogo da Velha\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Downloads\\Jogo da Velha\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
