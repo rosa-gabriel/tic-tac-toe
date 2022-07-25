@@ -15,9 +15,12 @@ Once you run the program the console will open showing a 3x3 grid:
 
 ![IMAGE](https://imgur.com/4OwzfSy.png)
 
-The console will ask you for a input of Type int that will represent the block of the grid. Counting from left -> right / Up -> Down. 
+The console will ask you for an input of Type int that will represent the block of the grid. Counting from left -> right / Up -> Down. The game is divided into "Jogador O" and "Jogador X" , the symbol after which the player represents the player symbol that will be added to the grid. If you enter a number of a non-valid block or already used block the console will ask you to enter a new number while still on the same Player.
 
-The game is divided in "Jogador O" and "Jogador X" the simbol after player represents the player simbol that will be added to the grid.
+When someone completes a line the game will show the winner player and ask if you want to play again:
 
-If you enter a number of a non-valid block or already used block the console will ask you to enter a new number wille still on the same Player.
+![IMAGE](https://imgur.com/Bh4dWgU.png)
 
+1 - Yes / 2 - No
+
+And that's all... :).
